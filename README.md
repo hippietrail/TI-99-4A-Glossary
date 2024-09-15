@@ -7,6 +7,8 @@ Acronyms and other terms pertaining to the Texas Instruments TI-99/4A home compu
 - DIS/VAR - **Dis**play/**Var**iable
 - DSR - **D**evice **S**ervice **R**outine
 - E/A - **E**ditor/**A**ssembler
+- EA3
+- EA5
 - Ed/As - **Ed**itor/**As**sembler
 - ExBas - **Ex**tended **BAS**IC
 - FDR - **F**ile **D**escriptor **R**ecord
