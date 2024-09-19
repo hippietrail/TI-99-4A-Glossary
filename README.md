@@ -10,8 +10,8 @@ Acronyms and other terms pertaining to the Texas Instruments TI-99/4A home compu
   one of the five basic file types indicated in the **FDR**
 - **DSR** - **D**evice **S**ervice **R**outine
 - **E/A** - **E**ditor/**A**ssembler
-- **EA3**
-- **EA5**
+- **EA3** - Option 3 in the TI **E**ditor/**A**ssembler. "LOAD AND RUN". Loads an assembly file in tagged-object code.
+- **EA5** - Option 5 in the TI **E**ditor/**A**ssembler. "RUN PROGRAM FILE". Used to load and run a memory-image file in "program" format.
 - **Ed/As** - **Ed**itor/**As**sembler
 - **ExBas** - **Ex**tended **BAS**IC
 - **FDR** - **F**ile **D**escriptor **R**ecord
