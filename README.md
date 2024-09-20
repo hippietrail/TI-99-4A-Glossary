@@ -24,6 +24,7 @@ Acronyms and other terms pertaining to the Texas Instruments TI-99/4A home compu
   one of the five basic file types indicated in the **FDR**
 - **ISR** - **I**nterrupt **S**ervice **R**outine
 - **MXT**
+- **PAB** - **P**eripheral **A**ddress **B**lock
 - **PEB** - **P**eripheral **E**xpansion **B**ox
 - **PROGRAM**  
   one of the five basic file types indicated in the **FDR**
