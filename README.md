@@ -14,6 +14,7 @@ Acronyms and other terms pertaining to the Texas Instruments TI-99/4A home compu
 - **EA5** - Option 5 in the TI **E**ditor/**A**ssembler. "RUN PROGRAM FILE". Used to load and run a memory-image file in "program" format.
 - **Ed/As** - **Ed**itor/**As**sembler
 - **ExBas** - **Ex**tended **BAS**IC
+- **FAC** - **F**loating-point **Ac**cumulator
 - **FDR** - **F**ile **D**escriptor **R**ecord
 - **FIAD** - **F**iles **I**n **A** **D**irectory - A 128-byte header prepended to TI-99/4A files adding metadata the system stores outside the file in the **FDR**. Also known as "V9T9". Distinct from **TIFILES**.
 - **GPL** - **G**raphics **P**rogramming **L**anguage
