@@ -30,6 +30,7 @@ Acronyms and other terms pertaining to the Texas Instruments TI-99/4A home compu
 - **PROGRAM**  
   one of the five basic file types indicated in the **FDR**
 - **.rpk** - A cartridge file format used only by the MAME emulator. Based on the PKZIP archive format.
+- **RXB** - **R**ich E**x**tended **B**asic
 - **Standard Header**
 - **Subprogram**
 - **TIFILES** - A 128-byte header prepended to TI-99/4A files adding metadata the system stores outside the file in the **FDR**. Also known as "XMODEM". Distinct from **FIAD**.
